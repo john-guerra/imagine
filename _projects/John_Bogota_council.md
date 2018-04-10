@@ -1,7 +1,7 @@
 ---
-title: Visual Analytics the Bogotá Council case
+title: Visual analytics support tool
 
-description: This project will be focused in making the data flow to the correct stakeholders, making the middleman’s job easier and dynamizing its use. The forms for data input will be simplified, the data will be reorganized and stored for future use, and visualizations will be made regarding the user’s best interests.
+description: Develop a tool for the Secretariat of Government of Bogota, to store and view all the information on the City Council.
 
 people:
   - prof-johnguerra
@@ -9,10 +9,9 @@ people:
 
 layout: project  
 
-research_area: Visual Analytics
-
-last-updated: 2018-02-19
+last-updated: 2018-04-04
 ---
-Develop a tool for political control over Bogota's Council.
+Develop a tool for the Secretary of Government of Bogota, to store and view all the information on the City Council. This system will allow the Secretary to keep a tighter control on the political environment around the new policies coming up in the Council. It will also allow the employees of the Secretariat to save time when answering the requirements of the Council, as it currently takes a big portion of their time.  
+This project was codeveloped with Universidad del Rosario's Political Science, Government and International Relationships Dean, Monica Pachón. 
 
 [Github repository](https://github.com/EstebanDalelR/Thesis-Viz)
