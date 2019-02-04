@@ -159,7 +159,17 @@ ugrad-camilaGarcia:
 ugrad-santiagoBeltran:
     display_name: Santiago Beltran
     role: ugrad-alum
-
+    webpage: https://webdevuniandes.github.io/sbeltran10/
+    
+ugrad-gabrielMartinez:
+    display_name: Gabriel Martínez Zarama
+    role: ugrad-alum
+    
+ugrad-samuelBaquero:
+    display_name: Samuel Baquero Merchán
+    role: ugrad-alum
+    webpage: https://samuelbaquero.github.io/MyWebsite/
+    
 ugrad-fabioLopez:
     display_name: Fabio Andrés López Corredor
     role: ugrad
