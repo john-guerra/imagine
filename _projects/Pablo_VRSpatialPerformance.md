@@ -1,7 +1,7 @@
 ---
-title: A set of transfer functions to approximate spatial performance during navigational tasks between heterogeneous VR displays
+title: A perceptual calibration method to improve the spatial performance on VR displays
 
-description: The project is focused in the development of a set of transfer functions to approximate spatial performance between hetereogeneous virtual reality displays.
+description: The project is focused in the development of a perceptual calibration method to improve the spatial performance on virtual reality displays for distance-related spatial tasks.
 
 people:
   - prof-pablofigueroa
@@ -22,14 +22,11 @@ b>Platform:</b> Mobile | Desktop. <br>
 <b>Game Engine:</b> Unity.<br>
 <b>Context:</b> Virtual Reality.<br>
 
-We propose a novel method to approximate the spatial perception between heterogeneous VR displays. Studies have shown that perception of distance in virtual reality (VR) is generally underestimated, not only in comparison with the physical world but also between different kinds of VR displays. This effect can be attributed to the interception of the action-perception-feedback loop in VR which causes a conﬂict between the visual and motor cues. Thus, the method is focused on approximating the spatial performance from a display with a greater interception degree to another display with a smaller interception degree. First, we iteratively adapt and assess the perception of distance in the display with the smaller interception degree by providing continuous feedback. Then, we approximate the spatial performance in the other display, by inﬂuencing its adaptation process and modifying how the visual cues are presented based on some display features.
+We propose a novel method to improve the spatial performance on VR displays. Studies have shown that perception of distances in virtual reality (VR) is generally underestimated, not only in comparison with the physical world but also between different kinds of VR displays. This effect can be attributed to the interception of the action-perception-feedback loop in VR which causes a conﬂict between the visual and motor depth cues. Thus, the method is focused on developing a perceptual calibration method, which extend the limitations of standard calibration methods, with the purpose of improving the subject's spatial perception and he/her spatial performance for distance-related spatial tasks.
 
 <center>
 <b> Demo of size constancy test </b><br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Ak0Pih7oXU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-<br><br><b> Demo of path integration task </b><br><br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qxspaJOLxho" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/RvdMAa9-Nvo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </center>
-<br><br>
+
 
