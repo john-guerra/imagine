@@ -29,7 +29,7 @@ clean:
 	$(RM) -r _site
 # $(RM) -r _site _includes/pubs.html
 
-DEPLOY_HOST ?= imagine@imagine.uniandes.edu.co
+DEPLOY_HOST ?= imagine@imagine.virtual.uniandes.edu.co
 DEPLOY_PATH ?= /var/www/html/
 RSYNC := rsync -uvh --compress --recursive --checksum --itemize-changes --delete -e "ssh "
 

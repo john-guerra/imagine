@@ -50,7 +50,7 @@ prof-nelsonAndresSanchez:
     role: faculty
     image: /img/people/foto_NelsonAndresSanchez.jpg
     bio: Instructor Professor
-    
+
 prof-carolinaHiguera:
     display_name: Carolina Higuera Arias
     role: faculty
@@ -70,7 +70,7 @@ alum-danielwilches:
 alum-deisydiaz:
     display_name: Deisy Díaz Pérez
     role: alum
-    
+
 alum-davidMayorga:
     display_name: David Ricardo Mayorga H.
     role: alum
@@ -112,12 +112,12 @@ ugrad-felipeMartinez:
     role: ugrad-alum
     webpage: https://piazuelo.com/felipe
     image: /img/people/foto_felipeMartinez.jpg
-    
+
 ugrad-franciscoDurango:
     display_name: Francisco Manuel Jose Durango Uribe
     role: ugrad
     webpage: https://github.com/franciscoD1202
-    image: /img/people/foto_FranciscoManuelJoseDurangoUribe.png
+    image: /img/people/foto_FranciscoManuelJoseDurangoUribe.jpg
 
 ugrad-sebastianCardona:
     display_name: Juan Sebastián Cardona Muñoz
@@ -225,6 +225,12 @@ ugrad-samuelBaquero:
   display_name: Samuel Baquero Merchán
   role: ugrad
   webpage: https://samuelbaquero.github.io/MyWebsite/
+
+ugrad-cristianAmaya:
+  display_name: Cristian M. Amaya
+  role: ugrad
+  webpage: https://cm-amaya.github.io/
+  image: /img/people/foto_CristianAmaya.jpg
 
 grad-johannGonzalez:
    display_name: Johann Felipe González
