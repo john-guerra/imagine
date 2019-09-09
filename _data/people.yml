@@ -335,6 +335,11 @@ grad-jessikabuitrago:
     display_name: Jessika Johana Buitrago Ramírez
     role: grad
 
+grad-leonardobareno:
+    display_name: Leonardo Bareño
+    role: grad
+    image: /img/people/foto_LeonardoBareno.png
+
 collab-pabloArbelaez:
     display_name: Pablo Arbeláez
     role: collab
