@@ -112,6 +112,12 @@ ugrad-felipeMartinez:
     role: ugrad-alum
     webpage: https://piazuelo.com/felipe
     image: /img/people/foto_felipeMartinez.jpg
+    
+ugrad-franciscoDurango:
+    display_name: Francisco Manuel Jose Durango Uribe
+    role: ugrad
+    webpage: https://github.com/franciscoD1202
+    image: /img/people/foto_FranciscoManuelJoseDurangoUribe.png
 
 ugrad-sebastianCardona:
     display_name: Juan Sebastián Cardona Muñoz
