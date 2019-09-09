@@ -1,7 +1,7 @@
 ---
-title: BIM adapdation to mixed reality depending on the users and the task
+title: BIM-based mixed reality applications to improve human decision-making during the construction process
 
-description: The project has for focus to propose a way to adapt the Building Information Modelling data for mixed reality depending on the users and the tasks
+description: This PhD thesis project has for focus to propose mixed reality applications to improve human decision-making during the construction process, in particular during the pre-construction and construction phases. More precisly, we have yet designed 2 applications, one for construction supervision with drones and one for clash review during coordination design review.
 
 people:
   - prof-josehernandez
@@ -11,6 +11,6 @@ people:
 research_area: Mixed Realities
 
 layout: project
-last-updated: 2019-02-04
+last-updated: 2019-09-02
 ---
-The project has for focus to propose a way to adapt the Building Information Modelling data for mixed reality depending on the users and the tasks
+This PhD thesis project has for focus to propose mixed reality applications to improve human decision-making during the construction process, in particular during the pre-construction and construction phases. More precisly, we have yet designed 2 applications, one for construction supervision with drones and one for clash review during coordination design review.
