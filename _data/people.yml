@@ -50,6 +50,14 @@ prof-nelsonAndresSanchez:
     role: faculty
     image: /img/people/foto_NelsonAndresSanchez.jpg
     bio: Instructor Professor
+    
+prof-carolinaHiguera:
+    display_name: Carolina Higuera Arias
+    role: faculty
+    webpage: https://www.researchgate.net/profile/Carolina_Higuera2
+    role: faculty
+    image: /img/people/foto_CarolinaHiguera.jpg
+    bio: Instructor Professor
 
 alum-camiloescobarv:
     display_name: Camilo Andrés Escobar Velásquez
@@ -281,12 +289,6 @@ grad-joseDorado:
     webpage: https://www.researchgate.net/profile/Jose_Dorado5
     image: /img/people/foto_JoseDorado.jpg
 
-grad-victorGarzon:
-    display_name: Victor Garzón
-    role: grad
-    webpage: https://www.researchgate.net/profile/Victor_Garzon-Marin
-    image: /img/people/foto_VictorGarzon.jpg
-
 grad-juanPabloReyes:
     display_name: Juan Pablo Reyes Gomez
     role: grad
@@ -325,7 +327,14 @@ grad-arelimoreno:
 
 grad-jessikabuitrago:
     display_name: Jessika Johana Buitrago Ramírez
+    webpage: https://github.com/Jessikabui
     role: grad
+    image: /img/people/foto_jessikaBuitrago.jpg
+
+grad-leonardobareno:
+    display_name: Leonardo Bareño
+    role: grad
+    image: /img/people/foto_LeonardoBareno.png
 
 collab-pabloArbelaez:
     display_name: Pablo Arbeláez
