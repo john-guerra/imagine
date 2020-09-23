@@ -17,6 +17,8 @@ image: /img/projects/Marcela/poumon_final.png
 
 last-updated: 2018-02-19
 
+status: inactive
+
 ---
 
 The goal of this project is to create global, regional and local recruitment algorithms that take into account the volume difference of inspiration and expiration images by using the determinant of the jacobian of their transformation. With this, we want to find the best way to calculate the aeration of the lungs and assist medical professionals in choosing the best parameters to treat ARDS patients with mechanical ventilation.

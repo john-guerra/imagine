@@ -11,6 +11,8 @@ layout: project
 
 last-updated: 2017-05-19
 
+status: inactive
+
 research_area: Visual Analytics
 
 link: "http://analiticafundacioncanguro.com/"

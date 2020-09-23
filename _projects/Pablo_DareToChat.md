@@ -13,6 +13,8 @@ image: /img/projects/Pablo/daretochat.png
 
 last-updated: 2017-11-30
 
+status: inactive
+
 research_area: Mixed Realities
 ---
 <b>Platform:</b> Mobile | Android. <br>

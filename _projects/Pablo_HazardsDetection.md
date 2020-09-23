@@ -15,6 +15,8 @@ image: /img/projects/Pablo/VR_HazardIdentification.png
 
 research_area: Mixed Realities
 
+status: inactive
+
 ---
 <b>Devices:</b> HTC Vive <br>
 <b>Game Engine:</b> Unity.<br>

@@ -11,10 +11,10 @@ role-tables:
   - roles: [grad]
     width: 8
     image: true
-- - roles: [collab, ugrad, ugrad-alum]
+- - roles: [collab, ugrad, master, phd]
     width: 5
     image: false
-  - roles: [alum]
+  - roles: [alum, ugrad-alum, master-alum, phd-alum]
     width: 7
     image: false
 
@@ -84,6 +84,32 @@ role-tables:
                 {% assign sorted_projects = area.items | sort: 'last-updated', 'first' | reverse %}
                 {% for p in sorted_projects %}
                     {% if p.status != "inactive" %}
+                        {% include project-card.html project=p %}
+                    {% endif %}
+                {% endfor %}
+            </div>
+            <hr>
+        {% endfor %}
+    </div>
+    <h2>Past Research</h2>
+    <div class="research_projects">
+        {% comment %}
+        Sort the projects by date, putting those without dates last
+        {% endcomment %}
+        {% assign projects_by_area = site.projects | group_by: 'research_area' %}
+        {% assign shuffled_areas = projects_by_area | shuffle %}
+        {% for area in shuffled_areas %}
+            <a href="#{{ area.name }}" > {{ area.name }} </a>
+            &nbsp;&nbsp;
+        {% endfor %}
+        <br>
+        <br>
+        {% for area in shuffled_areas %}
+            <h3 id ="{{ area.name }}" >{{ area.name }}</h3>
+            <div class="card-columns">
+                {% assign sorted_projects = area.items | sort: 'last-updated', 'first' | reverse %}
+                {% for p in sorted_projects %}
+                    {% if p.status == "inactive" %}
                         {% include project-card.html project=p %}
                     {% endif %}
                 {% endfor %}

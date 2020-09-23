@@ -10,6 +10,8 @@ people:
 layout: project  
 
 last-updated: 2018-02-19
+
+status: inactive
 ---
 
 [Github repository](https://github.com/jmontes495/ProtoT2)
