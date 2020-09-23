@@ -1,161 +1,410 @@
-
-prof-a:
-    display_name: "Prof A"
+prof-josehernandez:
+    display_name: José Tiberio Hernández
     role: faculty
+    webpage: https://profesores.virtual.uniandes.edu.co/jhernand/en/inicio-en/
+    image: /img/people/foto_JoseHernandez.jpg
+    bio: Associate Professor
 
-prof-b:
-    display_name: "Prof B"
+prof-marcelahernandez:
     role: faculty
+    image: /img/people/foto_MarcelaHernandez.jpg
+    display_name: Prof Marcela Hernández Hoyos
+    webpage: https://profesores.virtual.uniandes.edu.co/marcher/en/inicio-en/
+    bio: Associate Professor
 
-prof-c:
-    display_name: "Prof C"
+prof-pablofigueroa:
+    display_name: Pablo Figueroa Forero
+    webpage: https://profesores.virtual.uniandes.edu.co/pfiguero/en/inicio-en/
     role: faculty
+    image: /img/people/foto_PabloFigueroa.jpg
+    bio: Associate Professor
 
-profx:
-    display_name: "Professor X"
-    webpage: "http://en.wikipedia.org/wiki/Professor_X"
-    github: profx
+prof-fernandodelarosa:
+    display_name: Prof Fernando De la Rosa Rosero
+    webpage: https://profesores.virtual.uniandes.edu.co/fde/en/inicio-en/
     role: faculty
-    image: /img/people/prof-x.png
-    bio: Professor
+    image: /img/people/foto_FernandodelaRosa.jpg
+    bio: Associate Professor
 
-scott:
-    display_name: "Scott Summers"
-    webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
-    role: staff
-    image: /img/people/scott.png
-    bio: aka Cyclops
-
-wolverine:
-    display_name: "Wolverine"
-    webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
-    github: wolverine
-    role: postdoc
-
-storm:
-    display_name: "Storm"
-    webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
-    role: grad
-    image: /img/people/storm.png
-
-grad-a:
-    display_name: "Grad A"
-    role: grad
-
-grad-b:
-    display_name: "Graduate Student B With Long Name"
-    role: grad
-
-grad-c:
-    display_name: "Grad C"
-    role: grad
-
-grad-d:
-    display_name: "Grad D"
-    role: grad
-
-grad-e:
-    display_name: "Grad E"
-    role: grad
-
-grad-f:
-    display_name: "Grad F"
-    role: grad
-
-grad-g:
-    display_name: "Grad G"
-    role: grad
-
-grad-h:
-    display_name: "Grad H"
-    role: grad
-
-grad-i:
-    display_name: "Grad I"
-    role: grad
-
-alum-a:
-    display_name: "Alum A"
-    role: alum
-    bio: "Ph.D., 2013. Now at Microsoft Research."
-
-alum-b:
-    display_name: "Alum B With Way Longer Name"
-    role: alum
-
-alum-c:
-    display_name: "Alum C"
-    role: alum
-    webpage: "https://www.google.com"
-
-alum-d:
-    display_name: "Alum D"
-    role: alum
-
-alum-e:
-    display_name: "Alum E"
-    role: alum
-
-alum-f:
-    display_name: "Alum F"
-    role: alum
-
-alum-g:
-    display_name: "Alum G"
-    role: alum
-
-alum-h:
-    display_name: "Alum H"
-    role: alum
-
-alum-i:
-    display_name: "Alum I"
-    role: alum
-
-collab-a:
-    display_name: "Collaborator A"
+prof-johnguerra:
+    display_name: John Alexis Guerra Gómez
+    webpage: http://johnguerra.co
+    github: john-guerra
     role: collab
+    image: /img/people/foto_JohnGuerra_2015.jpg
+    bio: Assistant Professor
 
-collab-b:
-    display_name: "Collaborator B With Long Name"
-    role: collab
+prof-sebastiangil:
+    display_name: Sebastian Gil Parga
+    role: faculty
+    webpage: https://sgilparga.wixsite.com/profile
+    github: speregil
+    role: faculty
+    image: /img/people/foto_SebastianGil.jpg
+    bio: Instructor Professor
 
-collab-c:
-    display_name: "Collaborator C"
-    role: collab
+prof-nelsonAndresSanchez:
+    display_name: Nelson Andres Sanchez O
+    role: faculty
+    webpage: https://www.researchgate.net/profile/Nelson_Sanchez_Otalora
+    role: faculty
+    image: /img/people/foto_NelsonAndresSanchez.jpg
+    bio: Instructor Professor
 
-collab-d:
-    display_name: "Collaborator D"
-    role: collab
+prof-carolinaHiguera:
+    display_name: Carolina Higuera Arias
+    role: faculty
+    webpage: https://www.researchgate.net/profile/Carolina_Higuera2
+    role: faculty
+    image: /img/people/foto_CarolinaHiguera.jpg
+    bio: Instructor Professor
 
-collab-e:
-    display_name: "Collaborator E"
-    role: collab
-
-ugrad-a:
-    display_name: "Ugrad A"
-    role: ugrad
-
-ugrad-b:
-    display_name: "Ugrad Student B With Long Name"
-    role: ugrad
-
-ugrad-c:
-    display_name: "Ugrad C"
-    role: ugrad
-
-ugrad-d:
-    display_name: "Ugrad D"
-    role: ugrad
-
-ugrad-e:
-    display_name: "Ugrad E"
-    role: ugrad
-
-ugrad-alum-a:
-    display_name: "Past Ugrad A"
+ugrad-alum-camiloescobarv:
+    display_name: Camilo Andrés Escobar Velásquez
     role: ugrad-alum
 
-ugrad-alum-b:
-    display_name: "Past Ugrad Student B With Long Name"
+ugrad-alum-danielwilches:
+    display_name: Daniel Wilches
     role: ugrad-alum
+
+ugrad-alum-deisydiaz:
+    display_name: Deisy Díaz Pérez
+    role: ugrad-alum
+
+master-alum-davidMayorga:
+    display_name: David Ricardo Mayorga H.
+    role: master-alum
+
+# profx:
+#     display_name: Professor X
+#     webpage: http://en.wikipedia.org/wiki/Professor_X
+#     github: profx
+#     role: faculty
+#     image: /img/people/prof-x.png
+#     bio: Professor
+
+ugrad-carlosGonzalez:
+    display_name: Carlos Eduardo González Álvarez
+    role: ugrad
+    webpage: https://cegonzalv.github.io
+    image: /img/people/foto_CarlosGonzalez.png
+
+ugrad-camiloAlfonso:
+    display_name: Camilo Alfonso
+    role: ugrad-alum
+    webpage: http://camiloalfonso.com
+    image: /img/people/foto_camiloAlfonso.png
+
+ugrad-davidLaiton:
+    display_name: Andrés David Laiton
+    role: ugrad
+    webpage: https://daviddlaiton.github.io/
+    image: /img/people/foto_AndresLaiton.jpg
+
+ugrad-estebanDalel:
+    display_name: Esteban Dalel Rueda
+    role: ugrad-alum
+    webpage: https://estebandalelr.co/
+    image: /img/people/foto_estebanDalel.jpg
+
+ugrad-felipeMartinez:
+    display_name: Felipe Martinez Piazuelo
+    role: ugrad-alum
+    webpage: https://piazuelo.com/felipe
+    image: /img/people/foto_felipeMartinez.jpg
+
+master-franciscoDurango:
+    display_name: Francisco Manuel Jose Durango Uribe
+    role: master
+    webpage: https://github.com/franciscoD1202
+    image: /img/people/foto_FranciscoManuelJoseDurangoUribe.jpg
+
+ugrad-sebastianCardona:
+    display_name: Juan Sebastián Cardona Muñoz
+    role: ugrad-alum
+    webpage: https://jscardona12.github.io/MyWebPage/
+    image: /img/people/foto_sebastianCardona.jpg
+
+ugrad-luisMesa:
+    display_name: Luis Mesa
+    role: ugrad-alum
+    webpage: http://luis-mesa.me
+    image: /img/people/foto_luisMesa.jpg
+
+ugrad-nicolarChavez:
+    display_name: Nicolas Chaves
+    role: ugrad-alum
+    image: /img/people/foto_nicolarChavez.jpeg
+
+ugrad-antonioDeLaVega:
+    display_name: Antonio de la Vega
+    role: ugrad-alum
+    webpage: https://adelavegaf.github.io/
+    image: /img/people/foto_antonioDeLaVega.jpeg
+
+ugrad-davidDelgado:
+    display_name: David Mauricio Delgado Ruiz
+    role: ugrad-alum
+    webpage: https://nonameable.github.io
+    image: /img/people/foto_davidDelgado.jpg
+
+ugrad-juanGuillermo:
+    display_name: Juan Guillermo Murillo Castillo
+    role: ugrad-alum
+    webpage: http://juanmurillo.me/
+    image: /img/people/foto_juanGuillermo.png
+
+ugrad-rogeliogarcia:
+    display_name: Rogelio Garcia
+    role: ugrad-alum
+    image: /img/people/foto_RogelioGarcia.jpeg
+
+ugrad-margaritaGomez:
+    display_name: Margarita Gómez Ballén
+    role: ugrad-alum
+    webpage: https://margaritagomez.github.io/
+    image: /img/people/foto_margaritaGomez.PNG
+
+ugrad-camilaGarcia:
+    display_name: Camila García Hernández
+    role: ugrad-alum
+    webpage: http://cgarciahdez.github.io/
+    image: /img/people/foto_camilaGarcia.png
+
+ugrad-santiagoBeltran:
+    display_name: Santiago Beltran
+    role: ugrad-alum
+    webpage: https://webdevuniandes.github.io./sbeltran10/
+
+ugrad-alum-fabioLopez:
+    display_name: Fabio Andrés López Corredor
+    role: ugrad-alum
+    webpage: https://falopez10.github.io/
+    image: /img/people/foto_fabioLopez.jpeg
+
+ugrad-alum-joanTorres:
+    display_name: Joan David Torres Pinzón
+    role: ugrad-alum
+    webpage: https://github.com/JDTorresP/
+    image: /img/people/foto_joanTorres.jpg
+
+ugrad-eduardoCabello:
+    display_name: Eduardo Arturo Cabello Agüero
+    role: ugrad-alum
+    webpage: https://eacabello10.github.io/
+    image: /img/people/foto_EduardoCabello10.jpg
+
+ugrad-alum-ricardoGonzalez:
+    display_name: Ricardo Enrique Gonzalez Peñuela
+    role: ugrad-alum
+    image: /img/people/Foto_RicardoGonzalez.jpg
+
+ugrad-camiloZambrano:
+    display_name: Camilo Zambrano Votto
+    role: ugrad-alum
+    webpage: https://cawolfkreo.github.io/
+    image: /img/people/foto_CamiloZambrano.jpg
+
+ugrad-zulmaCastañeda:
+    display_name: Zulma Lorena Castañeda Hidalgo
+    role: ugrad-alum
+    webpage: https://zlcastaneda10.github.io/
+    image: /img/people/foto_ZulmaCastanieda.jpg
+
+ugrad-camiloUseche:
+   display_name: Juan Camilo Useche
+   role: ugrad-alum
+   webpage: https://juancamilousecherodriguez.github.io/
+   image: /img/people/foto_juanUseche.jpg
+
+ugrad-alum-gabrielMartinez:
+   display_name: Gabriel Martínez Zarama
+   role: ugrad-alum
+
+ugrad-alum-samuelBaquero:
+  display_name: Samuel Baquero Merchán
+  role: ugrad-alum
+  webpage: https://samuelbaquero.github.io/MyWebsite/
+
+ugrad-alum-cristianAmaya:
+  display_name: Cristian M. Amaya
+  role: ugrad-alum
+  webpage: https://cm-amaya.github.io/
+  image: /img/people/foto_CristianAmaya.jpg
+
+grad-johannGonzalez:
+   display_name: Johann Felipe González
+   role: grad-alum
+    #webpage: https://eacabello10.github.io/
+    #image: /img/people/foto_DiegoRodriguez.jpg
+
+phd-alum-diegorodriguez:
+    display_name: Diego Rodríguez
+    role: phd-alum
+    image: /img/people/foto_DiegoRodriguez.jpg
+
+phd-alum-juanCamiloIbarra:
+    display_name: Juan Camilo Ibarra
+    role: phd-alum
+
+ugrad-alum-nycholBazurto:
+    display_name: Nychol Bazurto
+    role: ugrad-alum
+    webpage: http://nycholbazurto.me/
+    image: /img/people/foto_nycholBazurto.jpeg
+
+master-alum-meiliVanegas:
+    display_name: Meili Vanegas
+    role: master-alum
+    webpage: https://mvanegas10.github.io/
+    image: /img/people/foto_meiliVanegas.png
+
+grad-camiloMera:
+    display_name: David Camilo Mera David
+    role: grad
+    webpage: https://about.me/cmera
+    image: /img/people/foto_camiloMera.jpg
+
+master-alum-fabianPenna:
+    display_name: Fabian Camilo Peña
+    role: master-alum
+    webpage: https://fabiancpl.github.io/
+    image: /img/people/foto_fabianPenna.jpeg
+
+master-alum-miguelFeijoo:
+    display_name: Miguel Alfonso Feijóo G
+    role: master-alum
+    webpage: https://miguelalfonsofeijoo.wixsite.com/miguelfeijoo
+    image: /img/people/foto_miguelfeijoo.jpg
+
+master-alum-juanCamilo:
+    display_name: Juan Camilo Ortiz Román
+    role: master-alum
+    webpage: http://www.juancortiz.com/
+    image: /img/people/foto_juanCamilo.jpg
+
+master-alum-julianaMM:
+    display_name: Juliana Montes Maestre
+    role: master-alum
+    webpage: https://www.behance.net/julyjula
+    image: /img/people/foto_julianaMM.jpg
+
+master-alum-fmedina:
+    display_name: Fabián Medina
+    role: master-alum
+    webpage: http://ingfabianmedina.epizy.com
+    image: /img/people/foto_fmedina.jpg
+
+grad-joseDorado:
+    display_name: José Luis Dorado
+    role: grad
+    webpage: https://www.researchgate.net/profile/Jose_Dorado5
+    image: /img/people/foto_JoseDorado.jpg
+
+grad-DavidCubillos:
+    display_name: David Fernando Cubillos
+    role: grad
+    image: /img/people/foto_DavidCubillos.PNG
+
+phd-alum-juanPabloReyes:
+    display_name: Juan Pablo Reyes Gomez
+    role: phd-alum
+    webpage: http://www.juanPabloReyes.com/
+    # image: /img/people/foto_juanPabloReyes.jpg
+
+master-alum-ricardoMendoza:
+    display_name: Ricardo A. Mendoza Leon
+    role: master-alum
+    webpage: http://www.ricardoMendoza.com/
+    # image: /img/people/foto_ricardoMendoza.jpg
+
+phd-alum-philippFeix:
+    display_name: Philipp Feix
+    role: phd-alum
+    image: /img/people/foto_PhilippFeix.jpg
+
+phd-alum-praimbaud:
+    display_name: Pierre Raimbaud
+    role: phd-alum
+    image: /img/people/foto_PierreRaimbaud.jpg
+
+master-alum-cynthiaOchoa:
+    display_name: Cynthia Ochoa
+    role: master-alum
+
+master-alum-EmilioAlvarado:
+    display_name: Emilio Andrés Alvarado Santis
+    role: master-alum
+    webpage: https://github.com/emilioalvarado
+    image: /img/people/foto_EmilioAlvarado.jpg
+
+master-alum-arelimoreno:
+    display_name: Areli Merari Moreno Fonseca
+    role: master-alum
+
+master-alum-jessikabuitrago:
+    display_name: Jessika Johana Buitrago Ramírez
+    webpage: https://github.com/Jessikabui
+    role: master-alum
+    image: /img/people/foto_jessikaBuitrago.jpg
+
+master-leonardobareno:
+    display_name: Leonardo Bareño
+    role: master
+    image: /img/people/foto_LeonardoBareno.png
+
+collab-pabloArbelaez:
+    display_name: Pablo Arbeláez
+    role: collab
+
+collab-martinjagersand:
+    display_name: Prof Martin Jagersand
+    webpage: https://webdocs.cs.ualberta.ca/~jag/
+    role: collab
+
+collab-dominiqueFouchez:
+    display_name: Dominique Fouchez
+    webpage: https://annuaire.in2p3.fr/agents/Y249Rm91Y2hleiBEb21pbmlxdWUsb3U9cGVvcGxlLGRjPWluMnAzLGRjPWZy/show
+    role: collab
+    image: /img/people/foto_dominiqueFouchez.jpg
+
+collab-johnPuentes:
+    display_name: John Puentes
+    webpage: https://www.telecom-bretagne.eu/studies/msc/professors/puentes/
+    role: collab
+
+collab-maciejOrkisz:
+    display_name: Maciej Orkisz
+    webpage: https://www.creatis.insa-lyon.fr/site7/en/users/orkisz
+    role: collab
+    image: /img/people/foto_maciejOrkisz.png
+
+collab-dariocorreal:
+    display_name: Prof Dario Correal
+    webpage: https://profesores.virtual.uniandes.edu.co/~dcorreal/dokuwiki/doku.php
+    role: collab
+    image: https://profesores.virtual.uniandes.edu.co/~dcorreal/dokuwiki/lib/exe/fetch.php?cache=&media=dcorreal.jpg
+
+collab-eliecergutierrez:
+    display_name: Prof Eliecer Gutierrez
+    webpage: http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000145025
+    role: collab
+
+collab-oscargonzalez:
+    display_name: Prof Oscar González
+    webpage: https://profesores.virtual.uniandes.edu.co/blog/disc_profesores/o-gonza1/
+    role: collab
+    image: https://profesores.virtual.uniandes.edu.co/wp-content/uploads/2015/07/o-gonza1.jpg
+
+collab-robTeather:
+    display_name: Rob Teather
+    webpage: http://www.csit.carleton.ca/~rteather/
+    role: collab
+    image: http://www.csit.carleton.ca/~rteather/images/rt.jpg
+
+collab-FredericMerienn:
+    display_name: Frédéric Merienn
+    webpage: http://www.linkedin.com/pub/fr%C3%A9d%C3%A9ric-merienne/14/586/451
+    role: collab
+    image: http://institutimage.ensam.eu/medias/photo/frederic-merienne_1418637891333-jpg
+
