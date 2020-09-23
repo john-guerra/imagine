@@ -15,6 +15,7 @@ research_area: Image Processing
 
 last-updated: 2018-02-19
 
+status: inactive
 ---
 
 Develop an efficient and accurate pipeline for the detection of transient-like events on astronomical

@@ -5,3 +5,4 @@ _includes/pubs.html
 /.vs/imagine/v15/.suo
 /.vs
 /img/people/Thumbs.db
+.jekyll-cache

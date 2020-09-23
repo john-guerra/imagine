@@ -19,6 +19,8 @@ last-updated: 2015-12-31
 
 link: http://juegos.virtual.uniandes.edu.co/
 
+status: inactive
+
 ---
 
 DAVID (Development on Animation and Videogames) is a joint effort between Colciencias, 4 research groups at Universidad de los Andes, and 4 companies. DAVID defines lines of action for the development of these industries in Colombia

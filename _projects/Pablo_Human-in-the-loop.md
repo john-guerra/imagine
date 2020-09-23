@@ -13,6 +13,8 @@ layout: project
 research_area: Mixed Realities
 
 last-updated: 2017-12-31
+
+status: inactive
 ---
 
 The lack of a formal taxonomy for mobile devices interfaces for robotic systems is an existing gap. Because of this, mobile device interfaces for ground vehicles and articulated robots are being developed without a proper guide, and this leads to additional trial and error stages or iterations in the development process.

@@ -12,6 +12,8 @@ research_area: Visual Analytics
 
 layout: project
 last-updated: 2018-02-06
+
+status: inactive
 ---
 Bogotá city is going to build a metro system in the next few years. The Institute for urban development (IDU) from Bogotá wants to have an overview of the impact of this change in the inhabitants and also to have a study for value capture in order to finance the system. Along with the school of architecture, the group for urban and regional sustainability (SUR) from Universidad de los Andes have proposed a study for value capture and urban planning using a transit oriented development system.
 

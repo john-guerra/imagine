@@ -12,6 +12,8 @@ layout: project
 research_area: Visual Analytics
 
 last-updated: 2018-02-09
+
+status: inactive
 ---
 Develop a UI framework which will allow users to navigate big photo repositories. Using a dimension system, the user will be able to switch the photos they're visualizing depending on the predefined attribute that has been chosen.
 

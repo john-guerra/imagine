@@ -1,7 +1,7 @@
 name: IMAGINE Research Group
 url: http://imagine.uniandes.edu.co
 
-exclude: [bibble, README.md, Makefile, screenshot.png, publications.html]
+exclude: [bibble, README.md, Makefile, screenshot.png, publications.html, .jekyll-cache]
 
 # colorize code snippets with the pygments module
 # highlighter: pygments
@@ -21,12 +21,31 @@ roles:
     name: Graduate Students
   - key: ugrad
     name: Undergraduate Students
+  - key: alum
+    name: Alumni
   - key: ugrad-alum
     name: Past Undergraduate Students
   - key: collab
     name: Collaborators
-  - key: alum
-    name: Alumni
+  - key: phd
+    name: PHD Students
+  - key: master
+    name: Masters Students
+  - key: phd-alum
+    name: Past PHD Students
+  - key: master-alum
+    name: Past Masters Students
+  
+
+
+defaults:
+  - scope:
+      path: ""
+      type: projects
+    values:
+      research_area: Human Computer Interaction
+
+
 
 
 defaults:
@@ -58,5 +77,9 @@ navigation:
     link: /#people
   - title: Research
     link: /research.html
+  - title: Legacy
+    link: /legacy.html
+  # - title: Publications
+  #   link: /publications.html
   - title: Partners
     link: /partners.html

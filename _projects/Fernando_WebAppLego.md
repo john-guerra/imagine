@@ -12,6 +12,8 @@ layout: project
 research_area: Robotics
 
 last-updated: 2018-02-19
+
+status: inactive
 ---
 
 Define a base software architecture for the creation of web applications for operation, control and programming of Lego Mindstorm EV3 robots.
